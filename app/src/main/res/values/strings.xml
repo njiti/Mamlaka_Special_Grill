@@ -29,4 +29,9 @@
     <string name="favourite">Favourite</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="my_cart">My Cart</string>
+    <string name="s_t_c">S T C</string>
+    <string name="kamaukan77_gmail_com">kamaukan77@gmail.com</string>
+    <string name="kamau_kanyua">Kamau Kanyua</string>
+    <string name="log_out">Log Out</string>
 </resources>
