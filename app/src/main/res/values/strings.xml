@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mamlaka_Grill</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="sign_in">sign in</string>
+    <string name="Sign_In">Sign In</string>
+    <string name="get_our_deliciouse_meals_more_easily">Get our deliciouse meals more easily</string>
+    <string name="grill">Grill</string>
+    <string name="mamlaka">Mamlaka</string>
+    <string name="get_our_delicious_meals_more_easily" />
+    <string name="forgot_password">Forgot password</string>
+    <string name="full_Name" />
+    <string name="email_address">Email Address</string>
+    <string name="password">password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="full_name">Full Name</string>
+    <string name="log_in">Log In</string>
+    <string name="don_t_have_an_account">Don\'t Have an Account?</string>
+    <string name="register">Register</string>
+    <string name="daily_meal">Daily Meal</string>
+    <string name="favourite">Favourite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
